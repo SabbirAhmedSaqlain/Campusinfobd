@@ -1,0 +1,147 @@
+		body{
+			background-image: url(images/body.jpg);
+
+		}
+		header{
+			position: absolute ;
+			top: 1px;
+			left: 0%;
+			height: 83px;
+			width: 1350px;
+			background-color: forestgreen;
+		}
+		#quote{
+			position: absolute ;
+			top: 35px;
+			left: 820px;
+			width: 500px;
+			color: white;
+			font-family: verdana;
+			text-align: right;
+			font-style: italic;
+		}
+		h1{
+			
+		    position: absolute ;
+			top: -10px;
+			left: 40%;
+			color: white;
+		}
+		footer{
+			position: absolute ;
+			left: 0%;
+			height: 240px;
+			width: 100%;
+			background-color: forestgreen;
+
+		}
+
+		footer h4{
+			position: absolute ;
+		 	color: white;
+			left: 60px;
+			
+			
+
+		}
+		button{
+			background-color: #4CAF50;
+			border: none;
+			color: white;
+			text-align: center;
+			text-decoration: none;
+		    display: inline-block;
+		    font-size: 16px;
+		    margin: 4px 2px;
+		    cursor: pointer;
+		}
+
+		.button1{
+			background-color: #4CAF50;
+			border: none;
+			color: white;
+			text-align: center;
+			text-decoration: none;
+		    display: inline-block;
+		    font-size: 16px;
+		    margin: 4px 2px;
+		    cursor: pointer;
+			padding: 10px 20px;
+			
+		}
+		#home{position: absolute ;
+			height: 25px;
+			width: 110px;
+			top: 90px;
+			left: 210px;
+		}
+		#varsity_list{position: absolute ;
+			height: 25px;
+			width:110px;
+			top: 90px;
+			left: 380px;
+
+		}
+
+		#download{position: absolute ;
+			height: 25px;
+			width: 110px;
+			top: 90px;
+			left: 550px;
+
+		}
+
+		#result{position: absolute ;
+			height: 25px;
+			width: 110px;
+			top: 90px;
+			left: 720px;
+
+		}
+
+		#review{position: absolute ;
+			height: 25px;
+			width: 130px;
+			top: 90px;
+			left: 890px;
+
+		}
+
+		
+		.button1:hover{
+            	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19), 0 6px 20px 0 rgba(0,0,0,0.19);
+        }
+        table {
+
+   			font-family: arial, sans-serif;
+   			border-collapse: collapse;
+    		
+		}
+
+
+		#main{
+			position: absolute;
+			top: 150px;
+			left: 250px;
+		}
+
+
+		#subject_name{
+			
+			border-style: solid;
+    			border-width: 5px;
+			border-color: #4CAF50;
+			color: black;
+			height: 30px;
+			width: 600px;
+			font-size: 24px;
+		    	margin: 4px 2px;
+			padding: 10px 20px;
+		}
+
+
+		#subject_details{
+			color: black;
+			width: 800px;
+			font-size: 17px;
+		}
